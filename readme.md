@@ -55,7 +55,7 @@ Vue.js
 
    DOM是数据的一种自然映射，省去了手动操作dom获取数据的这个过程
 
-   <img src="../../../../Library/Application Support/typora-user-images/image-20200709152417205.png" alt="image-20200709152417205" style="zoom:30%;" />
+   <img src="ScreenShots/image-20200709152417205.png" alt="image-20200709152417205" style="zoom:30%;" />
 
    
 
@@ -63,7 +63,7 @@ Vue.js
 
    这样就完成了数据改变到数据更新的一个过程
 
-   ![image-20200709152935021](../../../../Library/Application Support/typora-user-images/image-20200709152935021.png)
+   ![image-20200709152935021](ScreenShots/image-20200709152935021.png)
 
    
 
@@ -71,7 +71,7 @@ Vue.js
 
    组件化的目的：扩展html元素，封装可用代码
 
-   ![image-20200709154524843](../../../../Library/Application Support/typora-user-images/image-20200709154524843.png)
+   ![image-20200709154524843](ScreenShots/image-20200709154524843.png)
 
    组件设计原则：
 
